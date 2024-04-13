@@ -17,20 +17,17 @@ h1 {
     margin: 0;
 }
 
-.course {
+section {
     background-color: #ffffff; /* White */
     margin: 20px;
     padding: 20px;
     border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 h2 {
     color: #7d63b8; /* Purple */
     margin-top: 0;
-}
-
-a {
-    color: #7d63b8; /* Purple */
 }
 
 footer {
