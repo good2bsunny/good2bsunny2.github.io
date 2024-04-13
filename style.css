@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff; /* White */
+    color: #000000; /* Black */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #7d63b8; /* Purple */
+    color: #ffffff; /* White */
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+}
+
+.course {
+    background-color: #ffffff; /* White */
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+h2 {
+    color: #7d63b8; /* Purple */
+    margin-top: 0;
+}
+
+a {
+    color: #7d63b8; /* Purple */
+}
+
+footer {
+    background-color: #7d63b8; /* Purple */
+    color: #ffffff; /* White */
+    text-align: center;
+    padding: 20px;
+}
